@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sora:wght@100..800&display=swap');
+@import "tailwindcss";
+
+body{
+    font-family: 'Sora', sans-serif;
+    background-color: #0a0a0a;
+    color: #f0f0f0;
+    overflow-X: hidden;
+}
+
+.btn:hover{
+    box-shadow: 0px 0px 20px 0px rgba(221, 124, 13, 0.5);
+}
+
+.gradient{
+    box-shadow: 10px 10px 300px 150px rgba(221, 124, 13, 0.5);
+}
+
+.gradient2{
+    box-shadow: 10px 10px 300px 150px rgba(36, 159, 175, 0.5);
+}
+
+.img{
+    border-radius: 50%;
+    padding: 10px;
+} 
+
+.bg-col{
+    background-color: #0a0a0a;
+}
+
+.subHero{
+    border-color: rgba(36, 159, 175, 0.5);
+}
+
+/* .port4Img{
+    height: 100px;
+    width: 100%;
+} */
+
+.exp-img{
+    border-radius: 50px;
+}
+
+.bg-col{
+    background-color: #1a1a23;
+}
+
+.emailImg{
+    border-radius: 10px
+}
