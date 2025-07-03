@@ -7,7 +7,8 @@ import SkillsMain from './components/skillsSection/SkillsMain'
 import ExperienceMain from './components/experienceSection/ExperienceMain'
 import ProjectsMain from './components/projectSection/ProjectsMain'
 import ContactMeMain from './components/contactMeSection/ContactMeMain'
-import FooterMain from './components/footer/footerMain'
+import FootersMain from './components/footer/FootersMain'
+
 
 
 export default function App() {
@@ -21,7 +22,7 @@ export default function App() {
     <ExperienceMain />
     <ProjectsMain />
     <ContactMeMain />
-    <FooterMain />
+    <FootersMain />
    </main>
   )
 }
