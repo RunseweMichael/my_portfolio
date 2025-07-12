@@ -10,56 +10,56 @@ export default function ProjectsMain() {
         name:"Royal Bites N' Events",
         year:'June 2025',
         align:'right',
-        image:'/Images/project4.jpg',
+        image:'/my_portfolio/Images/project4.jpg',
         link:'https://royal-bites-n-events.vercel.app/'
     },
     {
       name:'Gaia Yoga'  ,
       year:'May 2025',
       align:'left',
-      image:'/Images/portfolio3.jpg',
+      image:'/my_portfolio/Images/portfolio3.jpg',
       link:'https://gaia-yoga.vercel.app/'
     },
     {
       name:'Book Paradise'  ,
       year:'April 2025',
       align:'right',
-      image:'/Images/portfolio1.jpg',
+      image:'/my_portfolio/Images/portfolio1.jpg',
       link:'https://book-paradise-zeta.vercel.app/'
     },
     {
       name:'Digital Clock'  ,
       year:'March 2025',
       align:'left',
-      image:'/Images/project3.jpg',
+      image:'/my_portfolio/Images/project3.jpg',
       link:'https://digital-clock-umber-five.vercel.app/'
     },
     {
       name:'Weight Converter'  ,
       year:'February 2025',
       align:'right',
-      image:'/Images/project8.jpg',
+      image:'/my_portfolio/Images/project8.jpg',
       link:'https://runsewemichael.github.io/Weight_Converter1/'
     },
      {
       name:'Palindrome Checker'  ,
       year:'January 2025',
       align:'left',
-      image:'/Images/project5.jpg',
+      image:'/my_portfolio/Images/project5.jpg',
       link:'https://runsewemichael.github.io/PalindromeChecker/'
     },
     {
       name:'Phone Number Checker'  ,
       year:'January 2025',
       align:'right',
-      image:'/Images/project10.jpg',
+      image:'/my_portfolio/Images/project10.jpg',
       link:'https://runsewemichael.github.io/Phone_Number_Checker/'
     },
     {
       name:'Guessing Game'  ,
       year:'January 2025',
       align:'left',
-      image:'/Images/project11.jpg',
+      image:'/my_portfolio/Images/project11.jpg',
       link:'https://runsewemichael.github.io/guessingGame/'
     },
 ]

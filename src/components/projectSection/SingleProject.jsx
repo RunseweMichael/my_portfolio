@@ -3,7 +3,7 @@ import { BiSolidRightTopArrowCircle } from "react-icons/bi";
 
 export default function SingleProject({name, year, align, image, link}) {
   return (
-    <div className={`flex w-full sm:flex-col-reverse items-center gap-8 px-4 ${align === 'left' ? "md:flex-row" : "md:flex-row-reverse"} justify-end`}>
+    <div className={`flex w-full sm:flex-col-reverse items-center gap-8 ${align === 'left' ? "md:flex-row" : "md:flex-row-reverse"} justify-end`}>
       <div>
         <h2 className='md:text-3xl sm:text-2xl text-orange-700'>{name}</h2>
         <h2 className={`text-xl font-thin text-white sm:text-center ${align === 'left'? 'md:text-right': 'md:text-left'}`}>{year}</h2>

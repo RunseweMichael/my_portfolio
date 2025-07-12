@@ -5,7 +5,7 @@ import HeroGradient from './HeroGradient';
 
 export default function HeroMain() {
   return (
-    <div className='pt-35 pb-20'>
+    <div className='pt-7 pb-10'>
       <div className='flex flex-col md:flex-row max-w-[1200px] mx-auto justify-between items-center relative px-4'>
         <HeroText />
         <HeroPic />
