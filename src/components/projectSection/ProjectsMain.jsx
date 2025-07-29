@@ -10,7 +10,7 @@ export default function ProjectsMain() {
         name:"Coffee Brew",
         year:'July 2025',
         align:'right',
-        image:'/Images/project12.jpg',
+        image:'/Images/project12.jpeg',
         link:'https://coffee-brew-shop-9c7n.vercel.app/'
     },
       {
