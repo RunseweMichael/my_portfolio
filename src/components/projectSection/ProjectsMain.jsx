@@ -7,10 +7,24 @@ import {fadeIn} from '../../framerMotion/variants'
 
 export default function ProjectsMain() {
     const projects = [{
+        name:"Verdantia Farm",
+        year:'August 2025',
+        align:'right',
+        image:'/Images/verdantia.jpg',
+        link:'https://verdantia-render.onrender.com/'
+    },
+    {
+        name:"Readify Online Bookstore",
+        year:'August 2025',
+        align:'left',
+        image:'/Images/book.jpg',
+        link:'https://readify-bookstore.vercel.app/'
+    },
+    {
         name:"Coffee Brew",
         year:'July 2025',
         align:'right',
-        image:'/Images/project12.jpeg',
+        image:'/Images/coffee.jpg',
         link:'https://coffee-brew-shop-9c7n.vercel.app/'
     },
       {
@@ -61,13 +75,6 @@ export default function ProjectsMain() {
       align:'left',
       image:'/Images/project10.jpg',
       link:'https://runsewemichael.github.io/Phone_Number_Checker/'
-    },
-    {
-      name:'Guessing Game'  ,
-      year:'January 2025',
-      align:'right',
-      image:'/Images/project11.jpg',
-      link:'https://runsewemichael.github.io/guessingGame/'
     },
 ]
 
