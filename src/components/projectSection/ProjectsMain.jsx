@@ -7,72 +7,79 @@ import {fadeIn} from '../../framerMotion/variants'
 
 export default function ProjectsMain() {
     const projects = [{
-        name:"Verdantia Farm",
+        name:"Student Score Prediction",
         year:'August 2025',
         align:'right',
+        image:'/Images/machine.jpg',
+        link:'https://elevvopathway-ml-internship-model1.onrender.com/'
+    },
+    {
+        name:"Verdantia Farm",
+        year:'August 2025',
+        align:'left',
         image:'/Images/verdantia.jpg',
         link:'https://verdantia-render.onrender.com/'
     },
     {
         name:"Readify Online Bookstore",
         year:'August 2025',
-        align:'left',
+        align:'right',
         image:'/Images/book.jpg',
         link:'https://readify-bookstore.vercel.app/'
     },
     {
         name:"Coffee Brew",
         year:'July 2025',
-        align:'right',
+        align:'left',
         image:'/Images/coffee.jpg',
         link:'https://coffee-brew-shop-9c7n.vercel.app/'
     },
       {
         name:"Royal Bites N' Events",
         year:'June 2025',
-        align:'left',
+        align:'right',
         image:'/Images/project4.jpg',
         link:'https://royal-bites-n-events.vercel.app/'
     },
     {
       name:'Gaia Yoga'  ,
       year:'May 2025',
-      align:'right',
+      align:'left',
       image:'/Images/portfolio3.jpg',
       link:'https://gaia-yoga.vercel.app/'
     },
     {
       name:'Book Paradise'  ,
       year:'April 2025',
-      align:'left',
+      align:'right',
       image:'/Images/portfolio1.jpg',
       link:'https://book-paradise-zeta.vercel.app/'
     },
     {
       name:'Digital Clock'  ,
       year:'March 2025',
-      align:'right',
+      align:'left',
       image:'/Images/project3.jpg',
       link:'https://digital-clock-umber-five.vercel.app/'
     },
     {
       name:'Weight Converter'  ,
       year:'February 2025',
-      align:'left',
+      align:'right',
       image:'/Images/project8.jpg',
       link:'https://runsewemichael.github.io/Weight_Converter1/'
     },
      {
       name:'Palindrome Checker'  ,
       year:'January 2025',
-      align:'right',
+      align:'left',
       image:'/Images/project5.jpg',
       link:'https://runsewemichael.github.io/PalindromeChecker/'
     },
     {
       name:'Phone Number Checker'  ,
       year:'January 2025',
-      align:'left',
+      align:'right',
       image:'/Images/project10.jpg',
       link:'https://runsewemichael.github.io/Phone_Number_Checker/'
     },
